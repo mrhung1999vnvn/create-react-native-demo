@@ -1,0 +1,28 @@
+{
+  "name": "create-react-native-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrhung1999vnvn/create-react-native-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrhung1999vnvn/create-react-native-demo/issues"
+  },
+  "homepage": "https://github.com/mrhung1999vnvn/create-react-native-demo#readme",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
